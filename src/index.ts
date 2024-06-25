@@ -7,7 +7,7 @@ import swaggerUi from 'swagger-ui-express';
 import swaggerConfig from './swaggerConfig.js'; // Ensure the correct extension
 
 const app = express();
-const port = 3000;
+const port = 3001;
 
 // Middleware
 app.use(json());
